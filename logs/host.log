@@ -1,0 +1,8 @@
+2025-06-19 08:40:01,679 INFO o.s.b.StartupInfoLogger [Test worker] Starting JmeterTestingApplicationTests using Java 17.0.12 with PID 12439 (started by tejas-joshi in /home/tejas-joshi/Downloads/jmeter-testing)
+2025-06-19 08:40:01,689 DEBUG o.s.b.StartupInfoLogger [Test worker] Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-06-19 08:40:01,694 INFO o.s.b.SpringApplication [Test worker] No active profile set, falling back to 1 default profile: "default"
+2025-06-19 08:40:02,917 INFO o.s.b.StartupInfoLogger [Test worker] Started JmeterTestingApplicationTests in 1.805 seconds (process running for 3.047)
+2025-06-19 08:40:05,022 INFO o.s.b.StartupInfoLogger [main] Starting JmeterTestingApplication v1.0.1 using Java 17.0.12 with PID 12520 (/home/tejas-joshi/Downloads/jmeter-testing/build/libs/jmeter-testing-1.0.1.jar started by tejas-joshi in /home/tejas-joshi/Downloads/jmeter-testing)
+2025-06-19 08:40:05,025 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-06-19 08:40:05,027 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2025-06-19 08:40:06,525 INFO o.s.b.StartupInfoLogger [main] Started JmeterTestingApplication in 2.208 seconds (process running for 2.812)

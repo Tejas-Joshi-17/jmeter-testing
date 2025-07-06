@@ -1,0 +1,8 @@
+## build
+sudo docker build -t jmeter-testing:1.0.1 .
+
+## Run With Volume
+sudo docker run --env-file ./docker.env -- network host jmeter-testing:1.0.1
+
+## Run with Volume
+sudo docker run -v "/home/tejas-joshi/Downloads/jmeter-testing/logs:/app/logs" --env-file ./docker.env --name jmeter-testing --network host jmeter-testing:1.0.1

@@ -1,0 +1,1 @@
+java -jar -Dlogging.config=/app/logback-spring.xml ./jmeter-testing-1.0.1.jar
